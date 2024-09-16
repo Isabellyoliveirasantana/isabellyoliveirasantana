@@ -4,7 +4,7 @@ meu nome é isabelly  santana
 
 - Estou estudando na alura
 - Estou aprendendo a mexer no GitHub
- - utilizo esse espaço para postar os compartilhamnto dos meus proje
+ - utilizo esse espaço para postar os compartilhamnto dos meus projeto
 
 
 
